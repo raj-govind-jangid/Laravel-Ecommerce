@@ -1,0 +1,40 @@
+.navbar{
+    background: rgb(106, 90, 205) !important;
+}
+
+.dropdown{
+    border-radius:0;
+    border:0;
+}
+.dropdown-menu{
+    background: rgb(106, 90, 205);
+    border:0;
+    top:80%;
+    border-radius:0px 0px 5px 5px;
+}
+.dropdown-item:hover{
+    color:rgb(106, 90, 205);
+    background:#fff;
+}
+.dropdown-menu a{
+    color:#fff;
+}
+.navbar .nav-item .nav-link{
+    color:#eee !important;
+
+}
+.navbar .nav-item .nav-link:hover .navbar .nav-item .nav-link{
+    color: rgb(106, 90, 205)!important;
+    background: #fff;
+
+}
+
+.btn{
+    background-color: rgb(106, 90, 205);
+    color: #fff;
+}
+.btn:hover {
+    background-color: #fff;
+    color: rgb(106, 90, 205);
+    border-color: rgb(106, 90, 205);
+}
